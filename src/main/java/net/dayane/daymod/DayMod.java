@@ -20,6 +20,7 @@ public class DayMod {
     public static final String MOD_ID = "daymod";
     // Directly reference a slf4j logger
     private static final Logger LOGGER = LogUtils.getLogger();
+    //teste commit
 
     public DayMod() {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
